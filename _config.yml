@@ -9,7 +9,7 @@ plugins:
 #-------------------------------
 # General Site Settings
 title: Kris Payne
-description: "Hi I'm Kris, and I'm a keen Snr. Data Analytics and Data Scientist manager.  My portfolio focuses on interesting projects I've recently undertaken to showcase my skillset within numerous coding platforms. Please visit my Github & LinkedIn pages (or download my Resume) by using the links below to find out more about how I have utitlised these skills to drive a positive business impact!"
+description: "Hi, I'm Kris, and I'm a keen Snr. Data Analytics and Data Scientist manager.  My portfolio focuses on interesting projects I've recently undertaken to showcase my skillset within numerous platforms and techniques. Please visit my Github & LinkedIn pages (or download my Resume) by using the links below to find out more about how I have utitlised these skills to drive a positive business impact!"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
