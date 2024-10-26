@@ -9,15 +9,14 @@ plugins:
 #-------------------------------
 # General Site Settings
 title: Kris Payne
-description: "Hi, I'm Kris, and I'm a keen Snr. Data Analytics and Data Scientist Manager.  My portfolio focuses on interesting projects I've recently undertaken to showcase my skillset utilising numerous analytical techniques. Please visit my Github & LinkedIn pages (or download my Resume) by using the links below to find out more on how I have contributed in driving a positive business impact using data!"
+description: "Vastly experienced insurance leader looking to disect and understand retrospective performance, as well as developing predictive models for possible future outcomes, using my array of analytical skills. Please visit my Github & LinkedIn pages by using the links below to find out more on how I have contributed in driving a positive business impact using data!"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 #-------------------------------
 # About Section
-subtitle: Lead Data Analytics Manager <span style="color:#f58506"> Portfolio </span>
+subtitle: Group Head of Data Analytics <span style="color:#f58506"> Portfolio </span>
 location: "Leeds, UK"
-resume_url: /docs/Kris Payne - CV.pdf
 avatar_image: /img/Profile_Pic_New Cropped.jpg
 
 #-------------------------------
