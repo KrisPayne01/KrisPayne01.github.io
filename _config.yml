@@ -9,7 +9,7 @@ plugins:
 #-------------------------------
 # General Site Settings
 title: Kris Payne
-description: "Vastly experienced insurance leader who is looking to continue helping businesses analyse and understand performance, to help steer group strategy towards the most optimum outcome for both customer and cost. Please view some of the projects below to find out more on how I have used analytics to contribute in driving a positive business impact using data!"
+description: "Vastly experienced insurance leader who is looking to continue helping businesses analyse and understand performance better, help steer strategy towards the most optimum outcome for both customer and cost, and help beat targets. Please view some of the projects below to find out more on how I have used analytics to contribute in driving a positive business impact using data!"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
